@@ -2,8 +2,6 @@
 
 I'm a passionate **Java Developer** and **MERN Stack Developer** with dreams of becoming a Software Development Engineer. I love crafting beautiful, functional applications.
 
----
-
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,8 +26,6 @@ I'm a passionate **Java Developer** and **MERN Stack Developer** with dreams of 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
 ## 💭 Dev Quote
 
 <div align="center">
@@ -38,7 +34,6 @@ I'm a passionate **Java Developer** and **MERN Stack Developer** with dreams of 
 
 </div>
 
----
 
 <div align="center">
   
